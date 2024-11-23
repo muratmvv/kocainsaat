@@ -18,7 +18,7 @@ Responsive Tasarım: Web sitesi, tüm cihazlarda mükemmel çalışacak şekilde
 
 Teknolojiler:
 
-Frontend: HTML, CSS, JavaScript (React veya Vanilla JS), Bootstrap
+Frontend: HTML, CSS, JavaScript (Vanilla JS)
 
 Backend: PHP, MySQL (veritabanı)
 
